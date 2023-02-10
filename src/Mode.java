@@ -1,0 +1,3 @@
+public enum Mode {
+    WET_CLEANING, DRY_CLEANING, INTENSIVE_CLEANING
+}
